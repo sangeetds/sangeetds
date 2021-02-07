@@ -2,10 +2,10 @@
 
 I'm Sangeet. A final year student at BITS Pilani and a Software Developer Intern at Cleartax.
 
-- 🔭 I’m currently working on <a href="https://github.com/sangeetds/Tutorial">this project</a>
-- 🌱 I’m currently learning Microservices
+- 🔭 I’m currently working on this <a href="https://github.com/sangeetds/Tutorial">project.</a>
+- 🌱 I’m currently learning Microservices.
 - 💬 Ask me about anything :)
-- 📫 How to reach me:<a href="mailto:sangeet@saket.me"> mail me </a>
+- 📫 How to reach me: write me a <a href="mailto:sangeet@saket.me"> mail.</a>
 
 ## Github Stats
 <a href="https://github.com/anuraghazra/convoychat">
