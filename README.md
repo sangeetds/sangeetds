@@ -2,7 +2,7 @@
 
 I'm Sangeet. A final year student at BITS Pilani and a Software Developer Intern at Cleartax.
 
-- 🔭 I’m currently working on this <a href="https://github.com/sangeetds/isdb">project.</a>
+- 🔭 I’m currently working on this project, <a href="https://github.com/sangeetds/SocialBox">SocialBox.</a>
 - 🌱 I’m currently learning Kafka and Redis.
 - 💬 Ask me about anything :)
 - 📫 How to reach me: write me a <a href="mailto:sangeet@saket.me"> mail.</a>
