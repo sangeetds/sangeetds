@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sangeet. A final year student at BITS Pilani and a Software Developer Intern at Cleartax.
+I'm Sangeet. A final year student at BITS Pilani and a Member of Technical Staff at Vymo.
 
   - 🔭 I’m currently working on this project, <a href="https://github.com/sangeetds/WakeMeUp">WakeMeUp.</a>
 - 🌱 I’m currently learning Kafka and Redis.
