@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Sangeet. I work at Vymo as a Member of Technical Staff and am an alumnus of BITS Pilani.
+I'm Sangeet. I work at AWS as a Software Developer and am an alumnus of BITS Pilani.
 
-  - 🔭 I’m currently working on this project, <a href="https://github.com/sangeetds/WakeMeUp">WakeMeUp.</a>
-- 🌱 I’m currently learning Kafka and Redis.
+- 🔭 I’m currently working on this project, <a href="https://github.com/sangeetds/WakeMeUp">WakeMeUp.</a>
+- 🌱 I’m currently learning Ktor.
 - 💬 Ask me about anything :)
 - 📫 How to reach me: write me a <a href="mailto:sangeet@saket.me"> mail.</a>
 
