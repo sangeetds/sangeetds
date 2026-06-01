@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sangeet. I work at AWS as a Software Developer and am an alumnus of BITS Pilani.
+I'm Sangeet. I work at Meta as a Software Developer 2 and am an alumnus of BITS Pilani.
 
 - 🔭 I’m currently working on this project, <a href="https://github.com/sangeetds/WakeMeUp">WakeMeUp.</a>
 - 🌱 I’m currently learning Ktor.
